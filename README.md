@@ -1,5 +1,5 @@
 # CV2.0
-Version corrigé et améloiré
+
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -11,7 +11,9 @@ Version corrigé et améloiré
 <body>
     <main>
        <header>
-                
+                <div class="photo">
+                    <img src="01.png" width="100%" height="100%" alt="">
+                </div>
               <div class="des">
                     <h3>OUSSAID Sofiane</h3>
                     <p class="post"> Recherche Alternance Développeur web
@@ -139,3 +141,14 @@ Réalisation de flyer, carte de visite
           <div><b>Lecture</b></div>
           <div><b>Voyage</b></div>
      </div>
+</section>
+
+
+        <div class="srkl">
+
+        </div>
+     <hr class="light">
+    </main>
+</body>
+
+</html>
