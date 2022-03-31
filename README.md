@@ -141,7 +141,3 @@ Réalisation de flyer, carte de visite
           <div><b>Lecture</b></div>
           <div><b>Voyage</b></div>
      </div>
-</section>
-
-
-        <div class="srkl">
