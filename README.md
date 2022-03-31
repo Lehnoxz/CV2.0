@@ -12,19 +12,18 @@ CV 2.0
        <header>
                 <div class="photo">
                     <img src="01.png" width="100%" height="100%" alt="">
-                    </di>
+                </div>
               <div class="des">
                     <h3>OUSSAID Sofiane</h3>
                     <p class="post"> Recherche Alternance Développeur web
-                R        yth alternance (3J entreprise/ 2j école)
-                
-                        
+                    Disponible dès maintenant 
+                    Rythme(3jours d'entreprise /2jours école)
                 </p>
                 </div>
                 <div class="right">
                         <p>Oussaid.sof@gmail.com</p>
                         <p>La Queue en Brie - Paris</p>
-                        <p><+336104548</p>
+                        <p>+336104548</p>
                 </div> 
        </header>
 
