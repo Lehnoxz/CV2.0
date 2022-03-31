@@ -11,9 +11,7 @@ Version corrigé et améloiré
 <body>
     <main>
        <header>
-                <div class="photo">
-                    <img src="01.png" width="100%" height="100%" alt="">
-                </div>
+                
               <div class="des">
                     <h3>OUSSAID Sofiane</h3>
                     <p class="post"> Recherche Alternance Développeur web
