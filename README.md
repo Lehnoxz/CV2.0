@@ -145,10 +145,3 @@ Réalisation de flyer, carte de visite
 
 
         <div class="srkl">
-
-        </div>
-     <hr class="light">
-    </main>
-</body>
-
-</html>
