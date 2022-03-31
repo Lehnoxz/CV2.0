@@ -12,11 +12,13 @@ CV 2.0
        <header>
                 <div class="photo">
                     <img src="01.png" width="100%" height="100%" alt="">
-                </div>
+                    </di>
               <div class="des">
                     <h3>OUSSAID Sofiane</h3>
                     <p class="post"> Recherche Alternance Développeur web
-                    Disponible dès maintenant <br>Rythme(3jours d'entreprise /2jours école)</br>
+                R        yth alternance (3J entreprise/ 2j école)
+                
+                        
                 </p>
                 </div>
                 <div class="right">
