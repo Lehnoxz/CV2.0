@@ -1,5 +1,4 @@
-# CV2.0
-
+CV 2.0
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -21,9 +20,9 @@
                 </p>
                 </div>
                 <div class="right">
-                        <p><img src="mail.png" class="info">Oussaid.sof@gmail.com</p>
-                        <p><img src="maps.png" class="info">La Queue en Brie - Paris</p>
-                        <p><img src="tele.png" class="info">+336104548</p>
+                        <p>Oussaid.sof@gmail.com</p>
+                        <p>La Queue en Brie - Paris</p>
+                        <p><+336104548</p>
                 </div> 
        </header>
 
@@ -141,14 +140,3 @@ Réalisation de flyer, carte de visite
           <div><b>Lecture</b></div>
           <div><b>Voyage</b></div>
      </div>
-</section>
-
-
-        <div class="srkl">
-
-        </div>
-     <hr class="light">
-    </main>
-</body>
-
-</html>
